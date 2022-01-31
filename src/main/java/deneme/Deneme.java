@@ -5,6 +5,9 @@ public class Deneme {
         System.out.println("hello git");
 
 System.out.println("merge git");
+        System.out.println("merge git");
+        System.out.println("merge git");
+        System.out.println("merge git");
 //    helloooooo
     }
 }
