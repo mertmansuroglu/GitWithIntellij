@@ -2,17 +2,8 @@ package deneme;
 
 public class Deneme {
     public static void main(String[] args) {
-        System.out.println("hello git");
-
-
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
-        System.out.println("merge git");
+        System.out.println("lokala gidecek olan merge");
+         System.out.println("lokala gidecek olan merge");
         
 //    helloooooo
     }
